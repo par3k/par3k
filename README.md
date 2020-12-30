@@ -14,3 +14,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/par3k/) 
 [![Blog Badge](http://img.shields.io/badge/-KakaoBlog-yellow?style=flat-square&logoColor=black&logo=kakao&link=https://blog.naver.com/chajuhui123)](https://par3k.tistory.com)
 [![Blog Badge2](http://img.shields.io/badge/-NaverBlog-brightgreen?style=flat-square&logo=NativeScript&link=https://blog.naver.com/hoijae0194)](https://blog.naver.com/hoijae0194)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoijae0194@gmail.com)](mailto:hoijae0194@gmail.com)
+
