@@ -4,7 +4,7 @@
 [![Blog Badge2](http://img.shields.io/badge/-NaverBlog-brightgreen?style=flat-square&logo=NativeScript&link=https://blog.naver.com/hoijae0194)](https://blog.naver.com/hoijae0194)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoijae0194@gmail.com)](mailto:hoijae0194@gmail.com)
 </br></br>
-![main](https://github.com/par3k/par3k/blob/main/main_page.jpg)
+![main](https://github.com/par3k/par3k/blob/main/main.jpeg)
 </br></br></br></br>
 🌱 I jumped in learning the Python persistence API and NLP 🌱
 </br></br>
