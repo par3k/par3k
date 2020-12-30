@@ -4,7 +4,6 @@
 [![Blog Badge](http://img.shields.io/badge/-KakaoBlog-yellow?style=flat-square&logoColor=black&logo=kakao&link=https://blog.naver.com/chajuhui123)](https://par3k.tistory.com)
 [![Blog Badge2](http://img.shields.io/badge/-NaverBlog-brightgreen?style=flat-square&logo=NativeScript&link=https://blog.naver.com/hoijae0194)](https://blog.naver.com/hoijae0194)
 
-
 </br>
 ![lcc1](https://github.com/par3k/par3k/blob/main/main_page.jpg)
 </br></br></br></br>
