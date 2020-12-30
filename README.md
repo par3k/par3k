@@ -2,9 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:hoijae0194@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/par3k/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/hoijae0194)
-
-
-</br></br>
+</br>
 ![lcc1](https://github.com/par3k/par3k/blob/main/main_page.jpg)
 </br></br>
 🌱 I jumped in learning the Python persistence API and NLP 🌱
