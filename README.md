@@ -1,4 +1,4 @@
-# Greeting Guys!
+
 </br></br>
 🌱 I jumped in learning the Python persistence API and NLP 🌱
 </br></br>
