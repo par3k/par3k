@@ -9,7 +9,7 @@
 </br></br>
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoijae0194)](https://solved.ac/hoijae0194)
 </br></br>
-☎️ Contact ☎️
+✨ Contact ✨
 </br></br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpar3k&count_bg=%23FF0000&title_bg=%23636364&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/par3k/) 
