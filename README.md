@@ -1,4 +1,4 @@
-![lcc1](https://github.com/par3k/par3k/blob/main/1.jpg)
+![lcc1](https://github.com/par3k/par3k/blob/main/main_page.jpg)
 </br></br>
 🌱 I jumped in learning the Python persistence API and NLP 🌱
 </br></br>
