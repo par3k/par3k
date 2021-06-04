@@ -2,7 +2,7 @@
 ![main](https://github.com/par3k/par3k/blob/main/main.jpeg)
 </br>
 
-</br></br>
+</br>
 <h3 align="center"><b>🌝 About Me 🌝</b></h3>
 <p align="center">
   Park Hoijai (박 회재)<br>
