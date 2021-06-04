@@ -18,16 +18,13 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-
-</br></br>
-<h3 align="center">🌱 I jumped in learning the Python persistence API and NLP 🌱</h3>
-</br></br>
-![par3k's github stats](https://github-readme-stats.vercel.app/api?username=par3k&show_icons=true&&theme=dark)
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><br>
+</p>
 </br></br>
 <h3 align="center">💪 Algorithm Practice make me more Perfect 💪</h3>
-</br></br>
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoijae0194)](https://solved.ac/hoijae0194)
+</br></br
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoijae0194)](https://solved.ac/hoijae0194) 
+
 </br></br></br>
-</p>
+
 
