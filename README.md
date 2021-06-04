@@ -1,9 +1,18 @@
+</br></br>
+![main](https://github.com/par3k/par3k/blob/main/main.jpeg)
+</br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpar3k&count_bg=%23FF0000&title_bg=%23636364&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/par3k/) 
 [![Blog Badge](http://img.shields.io/badge/Blog-FFCD00?style=flat-square&logoColor=black&logo=kakao&link=https://blog.naver.com/chajuhui123)](https://par3k.tistory.com)
-</br></br>
-![main](https://github.com/par3k/par3k/blob/main/main.jpeg)
 </br></br></br></br>
+<h3 align="center"><b>🌝 About Me 🌝</b></h3>
+<p align="center">
+  Name : Park Hoijai (박 회재)<br>
+  Email : ios_7@kakao.com<br><br>
+  2018~2020. Beijing jiaotong University Software Engineering<br>
+  2021~. Samsung Software Acadefy For Youth trainee<br>
+</p>
+<br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -22,9 +31,6 @@
 </p>
 </br></br>
 <h3 align="center">💪 Algorithm Practice make me more Perfect 💪</h3>
-</br></br
+</br></br>
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoijae0194)](https://solved.ac/hoijae0194) 
-
-</br></br></br>
-
-
+</br></br>
