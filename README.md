@@ -25,7 +25,7 @@
 
 </p>
 </br>
-<h3 align="center">💪 Algorithm Practice make me more Perfect 💪</h3><br>
+<h3 align="center">💪 BOJ lover 💪</h3><br>
 <div align="center">
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoijae0194)](https://solved.ac/hoijae0194) 
