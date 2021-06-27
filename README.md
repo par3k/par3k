@@ -25,8 +25,14 @@
 
 </p>
 </br>
+<h3 align="center">💪 BOJ lover 💪</h3><br>
+<div align="center">
 
-</br></br></br>
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoijae0194)](https://solved.ac/hoijae0194) 
+
+</div>
+</br>
+</br>
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpar3k&count_bg=%23FF0000&title_bg=%23636364&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
