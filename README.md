@@ -7,9 +7,9 @@
 <p align="center">
   Park Hoijai (박 회재)<br>
   ios_7@kakao.com<br><br>
-  2018.09~2020.06 Beijing jiaotong University Software Engineering<br>
-  2021.01~2021.07. Samsung Software Acadefy For Youth trainee<br>
-  2021.08~. Asiana IDT Software Engineer<br>
+  2018.09~2020.06 Beijing jiaotong University : Software Engineering<br>
+  2021.01~2021.07. Samsung Software Acadefy For Youth(SSAFY) : 5th<br>
+  2021.08~. Asiana IDT : Finance IT Developement Team<br>
 </p>
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
