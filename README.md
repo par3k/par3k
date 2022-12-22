@@ -7,10 +7,10 @@
 <p align="center">
   Park Hoijai (박 회재)<br>
   ios_7@kakao.com<br><br>
-  2022.11~. Asiana IDT : Asiana Airlines Online Platform Team<br>
-  2021.08~.2022.10 Asiana IDT : Finance IT Development Team<br>
-  2021.01~07. Samsung Software Acadefy For Youth(SSAFY)<br>
-  2018.09~2020.06 Beijing jiaotong University<br>
+  2022.11~ | Asiana IDT : Asiana Airlines Online Platform Team<br>
+  2021.08~2022.10 | Asiana IDT : Finance IT Development Team<br>
+  2021.01~07 | Samsung Software Acadefy For Youth(SSAFY)<br>
+  2018.09~2020.06 | Beijing jiaotong University : Software Engineering<br>
 </p>
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
